@@ -1,0 +1,13 @@
+#Entorno virtual no suba
+myenv/
+
+
+# Para proteger las credenciales de la base de datos, se recomienda crear un archivo .env y agregarlo al .gitignore para que no se suba al repositorio.
+.env 
+
+#Archivos temporales
+pycache/
+
+
+Archivos basura
+*.pyc
